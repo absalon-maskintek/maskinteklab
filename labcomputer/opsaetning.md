@@ -156,7 +156,7 @@ Node-RED 5 kræver Node.js 22 eller nyere og anbefaler **Node.js 24** ([Node-RED
 
 1. Importér et flow fra [`node-red-flows/`](https://github.com/absalon-maskintek/maskinteklab/tree/main/node-red-flows): Menu → Import → vælg filen → Import → Deploy.
 2. Lås målefanen: højreklik på fanen → Lock Flow.
-3. 
+
 Editoren har bevidst intet password. Den låste fane og flowene i repoet er sikringen.
 
 ### Autostart
