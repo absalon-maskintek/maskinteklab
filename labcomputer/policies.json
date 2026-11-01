@@ -1,0 +1,38 @@
+{
+  "policies": {
+    "NewTabPage": false,
+    "Homepage": {
+      "URL": "http://localhost:1880/dashboard",
+      "StartPage": "homepage"
+    },
+    "FirefoxHome": {
+      "Search": false,
+      "TopSites": false,
+      "SponsoredTopSites": false,
+      "Highlights": false,
+      "Stories": false,
+      "SponsoredStories": false
+    },
+    "FirefoxSuggest": {
+      "WebSuggestions": false,
+      "SponsoredSuggestions": false,
+      "ImproveSuggest": false
+    },
+    "UserMessaging": {
+      "ExtensionRecommendations": false,
+      "FeatureRecommendations": false,
+      "UrlbarInterventions": false,
+      "SkipOnboarding": true,
+      "MoreFromMozilla": false
+    },
+    "AIControls": {
+      "Default": { "Value": "blocked" }
+    },
+    "OverrideFirstRunPage": "",
+    "OverridePostUpdatePage": "",
+    "DontCheckDefaultBrowser": true,
+    "NoDefaultBookmarks": true,
+    "DisableTelemetry": true,
+    "DisableFirefoxStudies": true
+  }
+}
