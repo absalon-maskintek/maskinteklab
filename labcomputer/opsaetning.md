@@ -151,6 +151,7 @@ Node-RED 5 kræver Node.js 22 eller nyere og anbefaler **Node.js 24** ([Node-RED
 6. Installér paletten: Menu → Manage palette → Install:
    - `node-red-contrib-modbus`, version **5.62.1 eller nyere**. Der findes flere pakker med næsten samme navn, som ikke vedligeholdes.
    - `@flowfuse/node-red-dashboard`
+   - `@flowfuse/node-red-dashboard-2-ui-led`
 
 ### Flow
 
